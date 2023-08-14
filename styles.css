@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-color: rgb(25, 25, 51);
+}
+
+.title {
+    color: white;
+}
