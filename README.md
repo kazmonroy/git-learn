@@ -1,3 +1,1 @@
-# Git Workflow: Best Pracitces for Branch Merging
-
-[link] - Link!
+# README FILE
